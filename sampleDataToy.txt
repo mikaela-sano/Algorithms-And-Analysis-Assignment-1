@@ -18,4 +18,3 @@ apologetic 1000
 fur 10
 fathom 40
 apps 60
-itch 2000

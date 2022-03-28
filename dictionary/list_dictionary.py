@@ -35,8 +35,6 @@ class ListDictionary(BaseDictionary):
 
         return 0
 
-
-
     def add_word_frequency(self, word_frequency: WordFrequency) -> bool:
         """
         add a word and its frequency to the dictionary
